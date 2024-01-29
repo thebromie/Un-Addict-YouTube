@@ -21,6 +21,7 @@ Future Update Goals
 - [ ] Change YouTube's UI to Reduce Reccomendations
   - [ ] Toggle Certain Things On & Off
 - [ ] Design Logo
+- [ ] Make version that works with Firefox Mobile
 - [ ] [Maybe] Utilize Google API to track all YouTube Usage
 
 If you have any suggestions create an issue with the **suggestion** tag
