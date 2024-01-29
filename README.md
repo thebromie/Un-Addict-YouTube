@@ -23,4 +23,4 @@ Future Update Goals
 - [ ] Design Logo
 - [ ] [Maybe] Utilize Google API to track all YouTube Usage
 
-If you have any suggestions create an issue **suggestion** tag
+If you have any suggestions create an issue with the **suggestion** tag
