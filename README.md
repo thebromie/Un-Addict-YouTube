@@ -3,6 +3,7 @@
 This Add-On is Built on [this library](https://github.com/mdn/webextensions-examples/tree/main/apply-css) from the [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 This Extention is ![0%](https://progress-bar.dev/0) Done
+
 This Update is ![0%](https://progress-bar.dev/0) Done
 
 0.1 Update Goals
